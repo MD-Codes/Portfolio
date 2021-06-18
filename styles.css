@@ -13,7 +13,6 @@ header {
     background-color: MediumSeaGreen;  
     justify-content: space-between;
     align-items: baseline;   
-    
 }
 header img {
     max-width: 50px;
@@ -87,11 +86,9 @@ li a:hover {
 .project img {
     min-width: 100%;
     height: auto;
-
 }
 .project:hover {
     border: 1px solid MediumSeaGreen;
-    
 }
 footer {
     display: flex;
@@ -110,9 +107,7 @@ footer {
 span img{
     width: 20px;
 }
-
 @media only screen and (max-width: 500px) {
-    
     header {
         position: static;
         top: 0;
@@ -141,7 +136,6 @@ span img{
         padding: 1rem;
         border-top: 1px solid #3cb371;
         justify-content: center;
-        
        }
     .project img {
         max-height: 300px;
