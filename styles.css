@@ -82,6 +82,7 @@ li a:hover {
     padding: 5px;
     background-color: rgba(245,255,250,0.2);
     flex-wrap: wrap;
+    margin-top: 5px;
    }
 .project img {
     width: 100%;
